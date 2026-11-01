@@ -1,6 +1,6 @@
 COS 201 – COMPUTER PROGRAMMING I
 
-Student Name: Durojaye Oduwanyo
+Student Name: Durojaye Oduanyo
 
 Matric Number: 25/16536
 
